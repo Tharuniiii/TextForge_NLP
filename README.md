@@ -186,39 +186,6 @@ We welcome contributions! Here's how you can help:
 4. **Push to the branch**: `git push origin feature/amazing-feature`
 5. **Open a Pull Request**
 
-### Development Guidelines
-- Follow PEP 8 style guide for Python
-- Add comments for complex functionality
-- Test your changes thoroughly
-- Update documentation as needed
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **NLTK Team** for the comprehensive NLP toolkit
-- **Gensim Developers** for text summarization capabilities
-- **Flask Community** for the excellent web framework
-- **Chart.js** for beautiful data visualization
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/textforge-nlp-analytics/issues) page
-2. Create a new issue with detailed description
-3. Contact the maintainers
-
----
-
 <div align="center">
 
 **Made with ❤️ for the NLP community**
